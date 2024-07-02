@@ -1,4 +1,4 @@
-                                      
+                                                                                         
 import './App.css';
 import LoginRegister from './Component/Assets/LoginRegister';
 
